@@ -80,6 +80,7 @@ fabric-end-to-end-data-engineering/
 └── README.md
 
 Technologies Used
+
 · Microsoft Fabric
 · Lakehouse (Delta Tables)
 · Fabric Warehouse
@@ -88,9 +89,11 @@ Technologies Used
 · Power BI (Direct Lake)
 
 Reporting & Analytics
+
 The final Gold data is loaded into a Fabric Warehouse and is designed to be consumed directly by Power BI using Direct Lake for high-performance analytics and reporting.
 
 Incremental Data Processing
+
 This project implements CDC-style incremental updates using:
 · Business keys (SaleID)
 · Delta Lake MERGE INTO
@@ -98,6 +101,7 @@ This project implements CDC-style incremental updates using:
 The pipeline is safe to rerun multiple times without data duplication.
 
 Why This Project Matters
+
 This project reflects how modern data engineering teams:
 · Build scalable Lakehouse architectures
 · Maintain clean separation between raw, refined, and analytical data
@@ -105,6 +109,7 @@ This project reflects how modern data engineering teams:
 It is designed to closely resemble real-world enterprise data engineering workflows.
 
 Future Enhancements
+
 · Fabric Pipelines & Scheduling
 · Automated incremental loads
 · Power BI dashboards
