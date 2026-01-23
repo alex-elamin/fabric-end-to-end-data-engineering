@@ -92,9 +92,13 @@ fabric-end-to-end-data-engineering/
 - Delta Lake
 - Power BI (Direct Lake)
 
+---
+
 ## Reporting & Analytics
 
 The final Gold data is loaded into a Fabric Warehouse and is designed to be consumed directly by Power BI using Direct Lake for high-performance analytics and reporting.
+
+---
 
 ## Incremental Data Processing
 
@@ -104,6 +108,8 @@ This project implements CDC-style incremental updates using:
 - Update & Insert logic to prevent duplicate records
 The pipeline is safe to rerun multiple times without data duplication.
 
+---
+
 ## Why This Project Matters
 
 This project reflects how modern data engineering teams:
@@ -111,6 +117,8 @@ This project reflects how modern data engineering teams:
 - Maintain clean separation between raw, refined, and analytical data
 - Serve business intelligence teams with reliable, trusted datasets
 It is designed to closely resemble real-world enterprise data engineering workflows.
+
+---
 
 ## Future Enhancements
 
@@ -120,10 +128,14 @@ It is designed to closely resemble real-world enterprise data engineering workfl
 - Data quality checks
 - Monitoring & logging
 
+---
+
 ## Visual Analytics (Fabric)
 
 Visual analytics are demonstrated using Fabric-native notebook visualizations and Power BI–style charts. These visuals
 represent how the Gold layer data is ultimately consumed by analytics and BI teams via Fabric Warehouse and Direct Lake.
+
+---
 
 ## 👤 Author
 
