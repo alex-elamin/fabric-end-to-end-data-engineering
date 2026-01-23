@@ -83,6 +83,8 @@ fabric-end-to-end-data-engineering/
 │
 └── README.md
 
+---
+
 ## Technologies Used
 
 - Microsoft Fabric
