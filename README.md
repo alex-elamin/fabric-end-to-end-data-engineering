@@ -137,7 +137,6 @@ It is designed to closely resemble real-world enterprise data engineering workfl
 Visual analytics are demonstrated using Fabric-native notebook visualizations and Power BI–style charts. These visuals
 represent how the Gold layer data is ultimately consumed by analytics and BI teams via Fabric Warehouse and Direct Lake.
 
----
 
 ## 👤 Author
 
