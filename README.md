@@ -19,8 +19,6 @@ The architecture follows the **Bronze → Silver → Gold** design pattern.
 ## Architecture Overview
 
 **Source → Lakehouse → Warehouse → Power BI**
-### Architecture Diagram
-![Fabric End-to-End Architecture](diagrams/fabric_end_to_end_architecture.png)
 
 ### Data Flow
 
