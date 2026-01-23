@@ -116,6 +116,11 @@ Future Enhancements
 · Data quality checks
 · Monitoring & logging
 
+Visual Analytics (Fabric)
+
+Visual analytics are demonstrated using Fabric-native notebook visualizations and Power BI–style charts. These visuals represent how the Gold layer data
+is ultimately consumed by analytics and BI teams via Fabric Warehouse and Direct Lake.
+
 👤 Author
 
 Alex Elamin
