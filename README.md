@@ -80,10 +80,10 @@ fabric-end-to-end-data-engineering/
 │   ├── revenue_over_time.png
 │   ├── revenue_by_product.png
 │   └── sales_detail_table.png
-│
+│   
 ├── diagrams/
+│   ├── fabric_end_to_end_architecture
 │   └── .gitkeep
-│
 └── README.md
 
 
