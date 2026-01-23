@@ -72,7 +72,11 @@ fabric-end-to-end-data-engineering/
 │   └── .gitkeep
 │
 ├── powerbi/
-│   └── .gitkeep
+│   ├── kpi_total_revenue.png
+│   ├── kpi_total_quantity.png
+│   ├── revenue_over_time.png
+│   ├── revenue_by_product.png
+│   └── sales_detail_table.png
 │
 ├── diagrams/
 │   └── .gitkeep
