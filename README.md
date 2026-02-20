@@ -138,7 +138,7 @@ represent how the Gold layer data is ultimately consumed by analytics and BI tea
 👤 Author
 
 Alex Elamin
-Data Engineer | SQL | Microsoft Fabric | Power BI
+Data Engineer | SQL | Microsoft Fabric | PySpark
 
 🔗 GitHub: https://github.com/alex-elamin
 
